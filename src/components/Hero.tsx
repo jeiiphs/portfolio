@@ -73,7 +73,7 @@ const Hero = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="https://joseph.carloscasado.es/CV_Joseph_Samanna.pdf"
+              href="/CV_Joseph_Samanna.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 border-2 border-indigo-600 text-indigo-600 dark:text-indigo-400 px-8 py-3 rounded-full font-semibold hover:bg-indigo-600 hover:text-white transition-all duration-300"
